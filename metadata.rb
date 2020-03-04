@@ -1,6 +1,6 @@
 name             'windows_dhcp'
 maintainer       'Texas A&M'
-maintainer_email 'dgroh@arch.tamu.edu'
+maintainer_email 'derekgroh@github.com'
 license          'MIT'
 description      'Installs/Configures windows_dhcp'
 version          '0.2.0'
